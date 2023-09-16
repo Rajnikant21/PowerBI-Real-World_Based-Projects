@@ -1,0 +1,26 @@
+#partner_performance_Project 4
+
+import pandas as pd
+import numpy as np
+import random
+import datetime
+
+# Create a sample partner list
+partners = ["Partner A", "Partner B", "Partner C", "Partner D", "Partner E"]
+
+# Generate random data for each metric
+data = {
+    "Partner": [random.choice(partners) for _ in range(100)],
+    "QueryResolutionTime(hours)": [random.uniform(1, 48) for _ in range(100)],
+    "SatisfactionRating": [random.randint(1, 5) for _ in range(100)],
+    "AdHocProjectCompletionRate(%)": [random.uniform(80, 100) for _ in range(100)],
+    "FeedbackCollected": [random.choice([True, False]) for _ in range(100)],
+    "ProcessOptimizationImpact(%)": [random.uniform(5, 15) for _ in range(100)],
+    "Date": [datetime.date(2023, random.randint(1, 12), random.randint(1, 28)) for _ in range(100)]
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Export the data to a CSV file
+df.to_csv("partner_performance_data.csv", index=False)

@@ -1,0 +1,22 @@
+#knowledge_resources_Project 2
+
+import pandas as pd
+import faker
+
+# Create a fake data generator
+fake = faker.Faker()
+
+# Generate fake data
+data = {
+    'Document Title': [fake.sentence() for _ in range(100)],
+    'Category': [fake.word() for _ in range(100)],
+    'Author': [fake.name() for _ in range(100)],
+    'Timestamp': [fake.date_time_this_decade() for _ in range(100)],
+}
+
+# Create a Pandas DataFrame
+df = pd.DataFrame(data)
+
+# Save the data to a CSV file
+df.to_csv('knowledge_resources.csv', index=False)
+

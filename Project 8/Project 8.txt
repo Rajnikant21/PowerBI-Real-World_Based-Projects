@@ -1,0 +1,20 @@
+#market_research_Project 8
+
+import pandas as pd
+import random
+import datetime
+
+# Generate sample data
+data = {
+    'Date': [datetime.date(2023, random.randint(1, 12), random.randint(1, 28)) for _ in range(100)],
+    'Product': [random.choice(['Product A', 'Product B', 'Product C']) for _ in range(100)],
+    'Region': [random.choice(['North', 'South', 'East', 'West']) for _ in range(100)],
+    'Sales': [random.randint(1000, 10000) for _ in range(100)],
+    'Customer Satisfaction': [random.uniform(1, 5) for _ in range(100)],
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Save the data to a CSV file
+df.to_csv('market_research_data.csv', index=False)

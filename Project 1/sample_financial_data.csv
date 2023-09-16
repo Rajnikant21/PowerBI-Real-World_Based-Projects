@@ -1,0 +1,1001 @@
+TransactionDate,Branch,ProductCategory,Revenue,Expenses
+2021-11-24,Branch A,Electronics,7441.35,137.55
+2021-03-13,Branch C,Electronics,6799.32,448.25
+2021-02-14,Branch C,Home Appliances,414.65,64.97
+2021-04-30,Branch C,Electronics,5656.33,363.69
+2021-12-26,Branch C,Home Appliances,2282.36,302.85
+2021-01-04,Branch A,Home Appliances,3468.48,94.63
+2021-06-22,Branch A,Electronics,3861.28,192.31
+2021-06-26,Branch C,Books,8090.57,370.27
+2021-10-02,Branch A,Home Appliances,880.12,160.73
+2021-11-18,Branch C,Books,5815.79,358.19
+2021-01-24,Branch C,Clothing,7753.38,492.91
+2021-04-30,Branch A,Home Appliances,2851.94,325.13
+2021-07-06,Branch A,Books,3617.18,341.68
+2021-12-26,Branch C,Electronics,6130.4,102.15
+2021-05-06,Branch A,Home Appliances,3856.61,494.97
+2021-11-24,Branch C,Clothing,6877.68,424.57
+2021-01-29,Branch A,Electronics,8069.95,212.56
+2021-02-03,Branch A,Books,2205.0,259.63
+2021-11-26,Branch B,Clothing,2722.31,138.38
+2021-10-15,Branch C,Books,7495.44,225.65
+2021-10-26,Branch B,Books,2271.28,498.82
+2021-09-18,Branch B,Electronics,7582.24,433.33
+2021-03-20,Branch C,Clothing,7941.59,222.64
+2021-02-02,Branch B,Home Appliances,5999.3,244.66
+2021-05-09,Branch C,Electronics,6834.81,74.98
+2021-10-02,Branch B,Books,1204.37,228.69
+2021-08-21,Branch A,Books,9721.69,385.74
+2021-09-17,Branch A,Books,8432.53,263.68
+2021-04-12,Branch A,Books,7648.86,278.9
+2021-09-29,Branch A,Books,4937.2,73.7
+2021-07-05,Branch B,Clothing,673.46,441.44
+2021-02-10,Branch A,Home Appliances,8178.63,489.43
+2021-09-30,Branch A,Clothing,6631.53,474.49
+2021-03-26,Branch B,Home Appliances,9647.19,465.88
+2021-12-20,Branch A,Books,4050.02,342.41
+2021-07-11,Branch B,Home Appliances,1297.94,127.85
+2021-06-23,Branch A,Clothing,5925.56,23.45
+2021-12-29,Branch C,Electronics,2366.52,454.6
+2021-06-19,Branch A,Clothing,2856.92,253.0
+2021-10-04,Branch A,Home Appliances,2505.67,247.03
+2021-07-28,Branch A,Electronics,1059.62,226.9
+2021-08-05,Branch B,Home Appliances,8651.98,46.0
+2021-12-01,Branch C,Electronics,700.07,369.54
+2021-02-25,Branch A,Clothing,1983.07,235.33
+2021-08-05,Branch A,Books,4680.02,439.75
+2021-02-08,Branch B,Electronics,600.82,499.66
+2021-01-08,Branch A,Clothing,1746.48,253.11
+2021-04-20,Branch B,Electronics,1729.91,21.03
+2021-07-19,Branch B,Home Appliances,2923.97,354.36
+2021-10-12,Branch C,Home Appliances,1632.49,162.42
+2021-01-30,Branch C,Electronics,7504.96,47.44
+2021-10-27,Branch B,Clothing,663.11,263.76
+2021-04-06,Branch A,Electronics,6784.6,132.9
+2021-03-03,Branch C,Clothing,5831.3,39.08
+2021-02-11,Branch B,Books,9353.59,118.04
+2021-06-10,Branch A,Books,4018.28,342.41
+2021-06-03,Branch B,Books,9297.28,469.15
+2021-01-05,Branch B,Electronics,825.28,122.31
+2021-05-16,Branch A,Books,8820.56,442.05
+2021-07-09,Branch B,Clothing,4438.03,280.74
+2021-06-04,Branch C,Electronics,6711.85,286.21
+2021-12-06,Branch A,Clothing,2718.21,447.06
+2021-10-11,Branch A,Books,2889.39,121.1
+2021-06-25,Branch A,Books,5103.55,140.54
+2021-01-27,Branch A,Home Appliances,8310.55,41.16
+2021-06-20,Branch A,Books,1699.66,232.08
+2021-12-28,Branch B,Electronics,1207.55,473.62
+2021-12-20,Branch A,Electronics,8362.49,299.6
+2021-03-17,Branch B,Clothing,514.11,195.03
+2021-01-21,Branch B,Clothing,6852.46,340.13
+2021-07-01,Branch C,Home Appliances,9740.99,379.75
+2021-05-02,Branch A,Clothing,8826.02,31.9
+2021-06-20,Branch B,Clothing,2741.38,397.94
+2021-02-25,Branch B,Electronics,8600.07,126.77
+2021-08-24,Branch B,Books,8223.31,438.24
+2021-04-25,Branch A,Clothing,4044.81,153.73
+2021-02-05,Branch B,Books,6450.67,211.85
+2021-10-02,Branch B,Electronics,1241.88,485.79
+2021-04-02,Branch C,Books,478.75,306.35
+2021-06-26,Branch C,Books,4420.3,492.43
+2021-03-01,Branch B,Clothing,2621.75,360.22
+2021-01-01,Branch C,Clothing,3705.79,53.59
+2021-12-07,Branch B,Books,6667.54,79.82
+2021-06-03,Branch C,Books,6702.24,176.57
+2021-12-23,Branch B,Clothing,1999.22,339.17
+2021-07-14,Branch C,Clothing,6193.6,164.46
+2021-10-08,Branch A,Books,2940.45,226.35
+2021-10-24,Branch C,Books,4703.38,232.24
+2021-04-20,Branch C,Home Appliances,7957.98,480.72
+2021-03-28,Branch C,Electronics,2909.49,338.65
+2021-11-14,Branch B,Electronics,8202.39,380.55
+2021-12-11,Branch B,Clothing,8084.97,90.73
+2021-01-24,Branch A,Home Appliances,6151.61,388.87
+2021-08-22,Branch B,Clothing,7211.62,204.31
+2021-07-24,Branch A,Clothing,6594.97,22.66
+2021-02-24,Branch B,Clothing,1841.28,479.82
+2021-09-23,Branch B,Electronics,5618.32,460.39
+2021-03-04,Branch B,Clothing,8034.02,340.44
+2021-10-14,Branch C,Books,9505.39,447.88
+2021-11-10,Branch C,Home Appliances,8322.63,282.98
+2021-03-23,Branch C,Home Appliances,4555.69,380.85
+2021-11-23,Branch B,Home Appliances,6304.81,151.81
+2021-02-09,Branch C,Books,2421.49,181.21
+2021-10-04,Branch A,Clothing,1593.22,203.86
+2021-03-20,Branch C,Clothing,735.87,215.65
+2021-10-05,Branch B,Home Appliances,716.43,419.79
+2021-07-19,Branch C,Electronics,8581.65,387.49
+2021-07-14,Branch B,Electronics,9433.14,163.33
+2021-07-19,Branch B,Clothing,4933.47,151.01
+2021-09-06,Branch A,Home Appliances,3427.68,345.99
+2021-07-27,Branch C,Clothing,8421.01,461.38
+2021-11-15,Branch C,Electronics,9078.6,304.11
+2021-12-06,Branch A,Electronics,6463.22,85.14
+2021-08-25,Branch A,Electronics,2675.55,177.13
+2021-08-21,Branch B,Books,7636.17,201.98
+2021-08-04,Branch B,Electronics,4756.04,379.53
+2021-01-27,Branch B,Clothing,6536.43,394.99
+2021-11-30,Branch A,Electronics,9501.16,115.69
+2021-01-11,Branch C,Clothing,2461.59,247.31
+2021-02-28,Branch C,Clothing,4703.84,143.0
+2021-07-08,Branch A,Electronics,7800.14,98.61
+2021-06-09,Branch A,Electronics,9295.98,296.38
+2021-07-12,Branch B,Clothing,852.37,351.49
+2021-11-18,Branch A,Electronics,7002.21,164.76
+2021-12-17,Branch C,Electronics,7982.65,291.65
+2021-01-22,Branch B,Home Appliances,6649.06,53.1
+2021-11-28,Branch B,Electronics,8510.8,414.72
+2021-02-24,Branch B,Books,6392.29,417.78
+2021-12-29,Branch A,Home Appliances,1843.76,270.44
+2021-11-30,Branch B,Home Appliances,4702.25,416.35
+2021-10-31,Branch B,Books,8531.96,418.75
+2021-02-14,Branch B,Home Appliances,2514.25,243.06
+2021-11-09,Branch C,Home Appliances,3430.33,257.27
+2021-06-16,Branch A,Home Appliances,2199.99,402.96
+2021-06-24,Branch B,Books,5602.33,267.98
+2021-04-08,Branch A,Clothing,7228.74,254.52
+2021-05-04,Branch C,Home Appliances,6494.44,255.59
+2021-01-09,Branch A,Books,2293.8,352.06
+2021-06-06,Branch C,Books,4785.28,274.84
+2021-08-06,Branch C,Books,3582.92,237.8
+2021-06-06,Branch B,Clothing,1294.49,112.44
+2021-03-03,Branch C,Clothing,1996.26,374.53
+2021-05-22,Branch C,Books,9807.06,419.66
+2021-06-01,Branch A,Books,1876.47,26.79
+2021-10-01,Branch A,Books,550.61,46.17
+2021-05-30,Branch C,Clothing,6414.91,381.34
+2021-02-22,Branch A,Books,4747.03,231.43
+2021-04-05,Branch A,Books,9416.53,249.31
+2021-02-03,Branch B,Home Appliances,833.41,322.13
+2021-01-28,Branch A,Clothing,8130.31,475.58
+2021-02-13,Branch A,Electronics,5624.92,219.76
+2021-11-02,Branch C,Clothing,7779.37,202.58
+2021-08-15,Branch B,Home Appliances,3123.26,318.09
+2021-11-09,Branch C,Electronics,9481.14,119.74
+2021-04-19,Branch B,Electronics,1654.87,103.43
+2021-02-08,Branch A,Electronics,4144.32,350.9
+2021-08-29,Branch B,Electronics,2391.61,359.34
+2021-12-26,Branch B,Electronics,6905.11,463.48
+2021-11-17,Branch C,Clothing,4308.88,281.39
+2021-11-28,Branch A,Books,8283.65,54.28
+2021-03-26,Branch B,Books,4447.62,244.98
+2021-06-05,Branch C,Home Appliances,9432.49,260.23
+2021-09-10,Branch B,Electronics,6020.56,446.92
+2021-06-15,Branch C,Books,356.06,129.88
+2021-12-12,Branch C,Electronics,9995.77,342.7
+2021-05-18,Branch C,Electronics,7654.78,104.09
+2021-09-23,Branch C,Home Appliances,9169.12,107.11
+2021-10-27,Branch B,Home Appliances,9693.65,245.6
+2021-07-29,Branch B,Books,6734.32,431.71
+2021-06-18,Branch B,Home Appliances,2953.36,473.69
+2021-10-09,Branch A,Home Appliances,971.79,141.15
+2021-03-01,Branch B,Electronics,6610.84,280.44
+2021-07-31,Branch A,Clothing,5232.55,318.86
+2021-09-13,Branch C,Home Appliances,7623.91,117.71
+2021-10-09,Branch A,Books,4437.35,355.16
+2021-03-04,Branch A,Clothing,7126.85,169.16
+2021-01-08,Branch C,Home Appliances,1022.77,496.28
+2021-02-28,Branch B,Electronics,6512.33,93.91
+2021-05-30,Branch C,Books,4213.35,251.6
+2021-08-30,Branch A,Home Appliances,5557.52,204.12
+2021-11-03,Branch C,Clothing,8653.87,152.6
+2021-08-01,Branch B,Books,8223.44,155.76
+2021-06-02,Branch C,Home Appliances,8666.08,234.34
+2021-09-05,Branch B,Books,5563.98,280.85
+2021-08-22,Branch B,Clothing,9809.67,134.63
+2021-07-16,Branch A,Home Appliances,532.11,377.46
+2021-12-28,Branch B,Home Appliances,9885.3,400.35
+2021-11-30,Branch A,Home Appliances,9651.76,80.6
+2021-10-30,Branch B,Electronics,8754.48,231.35
+2021-09-27,Branch B,Electronics,7252.19,216.79
+2021-12-02,Branch A,Electronics,4747.96,485.22
+2021-06-23,Branch C,Home Appliances,6533.38,428.85
+2021-12-12,Branch C,Home Appliances,9545.98,320.86
+2021-09-07,Branch C,Electronics,6212.85,132.69
+2021-12-17,Branch B,Clothing,7492.99,228.31
+2021-02-20,Branch C,Electronics,4492.42,353.12
+2021-01-15,Branch A,Books,7981.82,160.82
+2021-07-11,Branch B,Clothing,2517.55,217.78
+2021-12-16,Branch A,Clothing,1833.19,312.56
+2021-07-15,Branch C,Clothing,5026.91,299.92
+2021-04-29,Branch B,Books,4649.75,340.08
+2021-08-27,Branch B,Clothing,831.23,473.71
+2021-10-28,Branch B,Home Appliances,6934.1,239.28
+2021-06-04,Branch A,Home Appliances,8548.02,71.19
+2021-07-15,Branch C,Books,5790.64,496.49
+2021-06-01,Branch A,Home Appliances,2817.36,291.65
+2021-12-18,Branch C,Electronics,9115.11,377.68
+2021-05-27,Branch A,Books,2268.14,111.26
+2021-05-09,Branch C,Clothing,6319.66,453.63
+2021-11-27,Branch A,Books,7907.24,36.01
+2021-07-06,Branch C,Clothing,992.32,161.65
+2021-08-01,Branch A,Clothing,1408.38,278.92
+2021-07-07,Branch C,Books,8321.68,143.35
+2021-09-04,Branch B,Books,8061.9,244.8
+2021-02-08,Branch A,Clothing,8615.39,367.62
+2021-07-23,Branch C,Books,994.0,209.4
+2021-05-16,Branch C,Electronics,4602.38,342.96
+2021-12-11,Branch B,Home Appliances,8241.93,471.34
+2021-02-25,Branch C,Clothing,4767.62,317.38
+2021-10-15,Branch B,Clothing,6511.76,324.99
+2021-08-26,Branch C,Books,6527.47,76.0
+2021-01-24,Branch A,Books,9959.68,75.74
+2021-05-01,Branch C,Clothing,3947.59,198.09
+2021-12-23,Branch C,Home Appliances,5914.67,368.77
+2021-08-01,Branch C,Electronics,8353.56,315.51
+2021-05-24,Branch A,Books,2250.97,233.45
+2021-05-01,Branch B,Electronics,9811.18,196.32
+2021-11-27,Branch B,Electronics,4041.58,111.11
+2021-03-04,Branch B,Electronics,6661.41,328.02
+2021-11-02,Branch A,Electronics,7889.27,136.91
+2021-03-06,Branch C,Clothing,779.24,387.28
+2021-04-17,Branch C,Clothing,8149.22,131.84
+2021-03-17,Branch C,Electronics,2845.02,492.33
+2021-03-08,Branch C,Books,8005.29,72.76
+2021-01-14,Branch A,Electronics,3646.6,398.45
+2021-10-29,Branch B,Electronics,1825.04,45.15
+2021-08-04,Branch C,Electronics,7482.09,248.6
+2021-07-05,Branch C,Electronics,4574.85,126.34
+2021-11-11,Branch A,Books,4634.62,482.73
+2021-02-01,Branch B,Home Appliances,4320.11,71.82
+2021-12-31,Branch B,Electronics,9002.74,174.61
+2021-03-17,Branch A,Clothing,2822.66,323.88
+2021-10-08,Branch C,Books,3870.95,306.75
+2021-05-31,Branch B,Home Appliances,1081.87,356.85
+2021-12-02,Branch C,Clothing,4357.69,446.28
+2021-07-31,Branch B,Home Appliances,4047.43,370.21
+2021-06-10,Branch B,Books,6684.57,199.66
+2021-03-20,Branch C,Home Appliances,764.62,419.25
+2021-02-17,Branch B,Electronics,7471.43,198.87
+2021-03-08,Branch C,Electronics,5906.0,289.56
+2021-06-18,Branch C,Electronics,4167.01,439.33
+2021-08-05,Branch C,Electronics,9687.15,308.2
+2021-06-30,Branch A,Clothing,1631.83,251.45
+2021-02-25,Branch B,Books,1237.36,153.71
+2021-04-26,Branch B,Electronics,6129.05,335.76
+2021-12-22,Branch B,Electronics,1886.12,357.3
+2021-06-08,Branch B,Books,160.45,437.53
+2021-10-17,Branch C,Home Appliances,788.9,375.67
+2021-01-16,Branch A,Clothing,3824.32,237.75
+2021-03-22,Branch B,Books,7243.8,392.88
+2021-10-18,Branch C,Electronics,8845.09,94.68
+2021-11-13,Branch A,Electronics,2793.82,337.73
+2021-09-06,Branch C,Home Appliances,4200.42,123.47
+2021-09-20,Branch A,Books,4356.14,155.96
+2021-12-14,Branch C,Home Appliances,5316.65,168.04
+2021-04-23,Branch B,Electronics,176.1,164.68
+2021-04-19,Branch A,Books,2965.53,77.59
+2021-09-12,Branch C,Home Appliances,1839.38,202.5
+2021-12-27,Branch A,Books,813.55,433.65
+2021-01-22,Branch B,Electronics,4651.57,57.37
+2021-06-10,Branch C,Home Appliances,5776.66,360.56
+2021-08-02,Branch B,Electronics,4109.82,483.78
+2021-03-29,Branch C,Home Appliances,8337.06,461.49
+2021-02-15,Branch B,Electronics,2508.83,302.66
+2021-09-26,Branch A,Home Appliances,8718.19,377.99
+2021-04-24,Branch B,Clothing,856.16,323.95
+2021-09-29,Branch C,Clothing,9068.64,187.7
+2021-11-27,Branch A,Clothing,1117.76,142.86
+2021-03-30,Branch C,Clothing,7626.13,334.64
+2021-04-01,Branch C,Home Appliances,4693.14,290.59
+2021-10-24,Branch B,Books,8656.04,321.06
+2021-03-19,Branch B,Electronics,4742.32,323.06
+2021-05-21,Branch C,Electronics,3584.23,55.61
+2021-08-25,Branch B,Electronics,663.21,419.21
+2021-02-09,Branch C,Electronics,6188.58,263.39
+2021-08-25,Branch C,Electronics,4552.36,408.71
+2021-11-30,Branch A,Books,6089.56,260.66
+2021-02-01,Branch B,Electronics,8128.57,421.94
+2021-02-13,Branch C,Clothing,487.51,359.66
+2021-08-13,Branch C,Clothing,3702.59,460.61
+2021-07-18,Branch B,Books,6821.09,45.14
+2021-11-20,Branch C,Books,752.53,65.36
+2021-12-14,Branch B,Books,2594.76,428.75
+2021-11-05,Branch A,Books,906.87,338.53
+2021-06-29,Branch B,Home Appliances,1376.62,360.24
+2021-02-13,Branch B,Home Appliances,6470.58,177.67
+2021-03-07,Branch C,Electronics,6495.65,223.24
+2021-07-05,Branch A,Books,3157.77,476.56
+2021-06-24,Branch B,Clothing,2342.78,86.03
+2021-02-09,Branch B,Electronics,5126.13,279.09
+2021-09-27,Branch A,Books,8776.29,316.66
+2021-11-02,Branch B,Clothing,1706.25,419.05
+2021-11-16,Branch A,Home Appliances,532.56,194.86
+2021-05-02,Branch B,Books,7548.67,396.22
+2021-04-30,Branch C,Clothing,3163.73,408.14
+2021-08-29,Branch A,Books,6815.24,293.8
+2021-08-14,Branch B,Books,7803.43,261.4
+2021-08-03,Branch A,Clothing,8032.47,86.43
+2021-05-09,Branch A,Home Appliances,8753.76,286.18
+2021-02-22,Branch C,Electronics,2922.12,386.3
+2021-05-20,Branch B,Clothing,8327.36,64.02
+2021-04-24,Branch B,Books,9311.67,219.15
+2021-07-22,Branch C,Books,2434.2,497.37
+2021-07-11,Branch A,Electronics,3254.98,67.56
+2021-11-29,Branch B,Clothing,1462.24,157.7
+2021-08-30,Branch C,Clothing,7612.53,245.17
+2021-11-12,Branch A,Electronics,288.14,123.51
+2021-03-18,Branch C,Home Appliances,1200.75,158.29
+2021-06-04,Branch A,Electronics,2460.55,326.7
+2021-11-15,Branch B,Electronics,1197.49,454.47
+2021-11-02,Branch C,Electronics,6356.35,296.02
+2021-03-15,Branch B,Home Appliances,115.49,189.35
+2021-10-20,Branch B,Clothing,6677.28,61.09
+2021-07-04,Branch A,Electronics,3965.49,245.66
+2021-11-22,Branch B,Books,2611.14,27.8
+2021-02-04,Branch B,Clothing,7356.12,321.56
+2021-10-25,Branch C,Books,1420.75,189.1
+2021-06-23,Branch C,Clothing,8320.8,348.65
+2021-12-23,Branch B,Clothing,8133.83,50.29
+2021-08-23,Branch A,Books,2095.75,399.73
+2021-01-22,Branch B,Books,5202.3,494.78
+2021-10-06,Branch B,Books,462.55,330.51
+2021-05-27,Branch B,Electronics,8671.4,179.32
+2021-03-05,Branch B,Home Appliances,8905.92,376.79
+2021-07-17,Branch B,Clothing,5012.41,258.81
+2021-09-23,Branch B,Electronics,7298.11,57.88
+2021-11-05,Branch A,Books,3279.99,58.43
+2021-12-05,Branch B,Books,4514.57,364.48
+2021-03-27,Branch C,Home Appliances,3580.32,40.33
+2021-06-30,Branch C,Home Appliances,2818.1,490.41
+2021-01-30,Branch A,Home Appliances,3696.78,404.53
+2021-12-14,Branch A,Electronics,1513.52,311.63
+2021-08-13,Branch A,Clothing,765.61,393.69
+2021-07-07,Branch B,Home Appliances,9499.72,35.54
+2021-03-20,Branch C,Home Appliances,9493.35,198.57
+2021-02-09,Branch C,Clothing,5341.65,211.06
+2021-11-29,Branch B,Clothing,9609.15,32.44
+2021-04-06,Branch B,Home Appliances,9144.07,76.53
+2021-05-14,Branch C,Home Appliances,2224.25,313.7
+2021-12-22,Branch B,Clothing,1314.11,429.36
+2021-08-20,Branch A,Home Appliances,9972.9,409.05
+2021-06-13,Branch C,Books,7124.45,284.0
+2021-05-29,Branch B,Clothing,7146.91,465.12
+2021-11-23,Branch A,Books,5136.68,78.25
+2021-04-13,Branch A,Clothing,7924.69,32.62
+2021-10-11,Branch C,Books,4727.32,491.85
+2021-03-08,Branch C,Electronics,750.91,211.12
+2021-09-03,Branch C,Home Appliances,7714.73,415.2
+2021-02-07,Branch A,Books,6459.15,235.99
+2021-12-15,Branch C,Books,1370.51,417.95
+2021-10-10,Branch C,Clothing,7701.04,81.94
+2021-09-15,Branch A,Electronics,5229.21,165.98
+2021-03-24,Branch B,Clothing,3525.63,471.63
+2021-05-26,Branch A,Books,2043.39,479.05
+2021-05-21,Branch A,Books,6182.84,64.85
+2021-11-25,Branch A,Clothing,1794.89,319.75
+2021-11-06,Branch B,Electronics,8269.84,33.62
+2021-01-24,Branch C,Books,6546.19,388.14
+2021-08-02,Branch C,Electronics,5030.58,321.04
+2021-05-29,Branch C,Books,4881.15,406.25
+2021-12-17,Branch B,Books,4590.09,350.53
+2021-03-22,Branch B,Home Appliances,4894.09,117.93
+2021-11-07,Branch A,Books,8628.7,173.27
+2021-06-26,Branch B,Clothing,7630.58,267.19
+2021-02-24,Branch B,Clothing,4718.08,148.39
+2021-05-07,Branch A,Electronics,600.99,473.78
+2021-11-12,Branch B,Clothing,9630.59,453.11
+2021-06-17,Branch C,Books,1979.36,96.48
+2021-09-21,Branch B,Home Appliances,8802.85,258.74
+2021-02-16,Branch B,Home Appliances,9670.2,123.27
+2021-06-30,Branch A,Electronics,2885.43,306.81
+2021-12-01,Branch C,Home Appliances,2928.91,23.93
+2021-02-25,Branch B,Clothing,8836.31,369.2
+2021-07-26,Branch B,Electronics,4065.76,293.74
+2021-04-10,Branch B,Books,827.96,262.04
+2021-10-09,Branch B,Electronics,1373.77,66.41
+2021-07-11,Branch B,Books,7574.16,115.55
+2021-09-18,Branch B,Electronics,548.5,85.78
+2021-06-20,Branch B,Home Appliances,1574.51,448.7
+2021-03-13,Branch B,Books,1708.77,495.5
+2021-06-03,Branch C,Books,5122.42,264.66
+2021-09-08,Branch C,Books,4801.44,27.99
+2021-06-19,Branch C,Electronics,9800.99,300.18
+2021-12-19,Branch C,Electronics,6009.41,147.45
+2021-12-02,Branch C,Clothing,7241.86,300.09
+2021-03-29,Branch C,Home Appliances,1562.98,346.75
+2021-01-17,Branch C,Electronics,1988.76,231.7
+2021-08-03,Branch A,Home Appliances,6935.95,216.98
+2021-11-10,Branch B,Electronics,7087.17,268.97
+2021-10-15,Branch B,Home Appliances,5302.22,170.6
+2021-03-30,Branch B,Books,5508.1,344.42
+2021-12-15,Branch C,Books,6139.76,112.29
+2021-05-07,Branch B,Books,2326.18,487.0
+2021-06-02,Branch B,Clothing,6933.38,254.72
+2021-09-03,Branch B,Books,2949.11,295.27
+2021-10-06,Branch B,Home Appliances,8201.94,478.21
+2021-03-16,Branch B,Electronics,2947.54,362.79
+2021-06-27,Branch B,Books,7498.65,122.71
+2021-10-03,Branch B,Books,1459.0,315.52
+2021-10-28,Branch A,Clothing,602.58,454.49
+2021-04-26,Branch C,Clothing,619.66,218.38
+2021-08-30,Branch A,Clothing,151.3,284.17
+2021-03-22,Branch B,Home Appliances,4826.74,115.74
+2021-05-28,Branch B,Books,6494.39,455.81
+2021-02-15,Branch C,Clothing,5398.01,367.1
+2021-01-20,Branch A,Home Appliances,8834.23,104.38
+2021-01-19,Branch B,Home Appliances,1944.49,379.52
+2021-05-29,Branch A,Electronics,3054.08,309.34
+2021-06-21,Branch B,Home Appliances,9892.08,280.78
+2021-09-10,Branch A,Home Appliances,2801.09,408.23
+2021-06-19,Branch A,Home Appliances,6518.02,364.93
+2021-01-08,Branch C,Books,7928.6,292.53
+2021-04-09,Branch A,Home Appliances,8287.2,267.33
+2021-02-14,Branch B,Electronics,1929.33,87.49
+2021-06-15,Branch A,Electronics,2681.77,133.05
+2021-05-17,Branch B,Books,5866.36,294.98
+2021-05-14,Branch C,Books,6958.41,49.82
+2021-03-02,Branch B,Books,1681.2,349.32
+2021-12-27,Branch B,Electronics,6423.24,471.51
+2021-07-08,Branch C,Clothing,2269.37,84.11
+2021-03-20,Branch B,Books,4216.87,283.63
+2021-08-30,Branch C,Clothing,7642.41,346.56
+2021-11-02,Branch A,Home Appliances,5328.91,193.66
+2021-10-16,Branch A,Electronics,8304.86,453.39
+2021-04-14,Branch C,Clothing,1728.92,430.15
+2021-08-15,Branch A,Clothing,7197.49,254.64
+2021-09-19,Branch B,Electronics,4588.98,266.36
+2021-08-22,Branch C,Electronics,5632.09,342.93
+2021-06-07,Branch C,Electronics,4019.89,411.9
+2021-04-22,Branch C,Electronics,548.37,185.37
+2021-02-02,Branch C,Electronics,9352.37,53.13
+2021-08-30,Branch A,Books,4147.78,389.11
+2021-11-25,Branch C,Home Appliances,3807.16,447.84
+2021-08-18,Branch B,Home Appliances,894.47,482.79
+2021-10-04,Branch A,Books,1274.47,496.57
+2021-07-21,Branch C,Clothing,7305.8,126.89
+2021-01-02,Branch A,Books,4683.74,365.17
+2021-08-06,Branch C,Home Appliances,8251.27,138.81
+2021-06-27,Branch A,Books,1965.96,440.1
+2021-02-27,Branch A,Home Appliances,6187.74,469.39
+2021-01-09,Branch A,Clothing,766.18,305.09
+2021-08-17,Branch C,Electronics,2522.87,41.23
+2021-08-13,Branch A,Clothing,7568.42,392.51
+2021-03-13,Branch C,Books,2418.2,459.87
+2021-10-22,Branch B,Books,2445.35,440.6
+2021-12-05,Branch C,Clothing,4194.25,152.07
+2021-10-13,Branch C,Clothing,6297.33,225.06
+2021-09-11,Branch A,Books,9421.71,342.24
+2021-09-26,Branch B,Home Appliances,4141.77,163.95
+2021-04-05,Branch C,Home Appliances,2485.59,128.17
+2021-12-29,Branch A,Home Appliances,9155.94,289.95
+2021-08-02,Branch C,Clothing,3945.35,142.4
+2021-06-19,Branch C,Electronics,9230.04,426.62
+2021-02-17,Branch C,Clothing,610.21,201.04
+2021-11-06,Branch C,Electronics,8748.84,110.32
+2021-10-28,Branch C,Clothing,4846.0,437.35
+2021-06-20,Branch B,Electronics,2196.9,111.21
+2021-03-02,Branch C,Home Appliances,9152.97,353.9
+2021-12-27,Branch A,Home Appliances,9159.75,285.0
+2021-05-25,Branch B,Home Appliances,5383.14,192.44
+2021-05-14,Branch B,Home Appliances,4713.44,405.35
+2021-08-29,Branch B,Clothing,3769.98,218.69
+2021-10-16,Branch A,Clothing,260.58,285.59
+2021-10-27,Branch C,Home Appliances,3022.4,114.17
+2021-04-28,Branch B,Clothing,5043.08,334.21
+2021-12-17,Branch B,Books,7657.27,254.54
+2021-11-25,Branch C,Home Appliances,4662.21,371.73
+2021-06-30,Branch A,Clothing,7231.1,254.39
+2021-10-05,Branch C,Electronics,5287.05,422.75
+2021-02-08,Branch C,Electronics,7666.95,217.95
+2021-11-19,Branch A,Electronics,7100.98,24.39
+2021-09-16,Branch B,Books,698.46,326.11
+2021-11-12,Branch B,Home Appliances,255.74,275.46
+2021-07-30,Branch A,Electronics,5341.23,151.88
+2021-05-27,Branch A,Home Appliances,8081.06,456.69
+2021-02-24,Branch A,Clothing,2485.59,317.49
+2021-05-10,Branch B,Books,7969.87,57.93
+2021-07-27,Branch B,Clothing,9903.31,128.41
+2021-12-17,Branch A,Electronics,1025.66,202.05
+2021-10-10,Branch B,Electronics,6403.81,357.37
+2021-02-12,Branch B,Home Appliances,6484.58,179.01
+2021-02-18,Branch C,Electronics,2374.69,452.61
+2021-12-21,Branch C,Home Appliances,2783.84,463.6
+2021-12-17,Branch B,Electronics,1875.61,428.21
+2021-01-09,Branch A,Clothing,7547.32,362.1
+2021-07-23,Branch A,Books,1708.26,135.43
+2021-07-19,Branch C,Books,3900.08,375.08
+2021-12-19,Branch C,Electronics,5057.85,487.68
+2021-01-28,Branch A,Home Appliances,2398.23,56.49
+2021-11-06,Branch C,Home Appliances,9692.31,176.66
+2021-11-21,Branch B,Home Appliances,4956.97,190.79
+2021-07-12,Branch B,Clothing,6828.98,337.12
+2021-02-13,Branch C,Books,8000.75,362.29
+2021-02-12,Branch B,Clothing,3862.0,396.27
+2021-03-20,Branch C,Home Appliances,3235.11,71.14
+2021-01-03,Branch B,Home Appliances,3663.18,149.49
+2021-03-09,Branch A,Clothing,4366.7,287.35
+2021-09-20,Branch B,Electronics,359.99,189.88
+2021-02-17,Branch C,Books,8650.81,25.92
+2021-07-31,Branch B,Electronics,7275.95,288.58
+2021-05-05,Branch C,Clothing,6884.63,101.36
+2021-05-18,Branch B,Books,4981.93,50.37
+2021-08-11,Branch B,Home Appliances,3067.55,395.68
+2021-07-04,Branch B,Clothing,7236.9,257.99
+2021-11-12,Branch A,Home Appliances,1159.03,166.24
+2021-07-22,Branch B,Home Appliances,8060.36,178.18
+2021-06-21,Branch B,Clothing,3074.31,309.54
+2021-12-22,Branch A,Home Appliances,3210.41,483.0
+2021-06-13,Branch B,Home Appliances,9680.85,395.35
+2021-06-16,Branch B,Books,8183.3,208.61
+2021-02-28,Branch C,Clothing,5963.05,281.9
+2021-12-16,Branch C,Electronics,9534.75,241.58
+2021-12-29,Branch A,Home Appliances,7997.09,419.02
+2021-02-05,Branch B,Home Appliances,1477.87,165.36
+2021-05-10,Branch C,Clothing,7180.84,398.76
+2021-02-07,Branch B,Home Appliances,5864.22,276.5
+2021-12-21,Branch B,Electronics,7928.14,192.57
+2021-10-02,Branch C,Electronics,1182.76,139.15
+2021-12-07,Branch B,Clothing,6505.3,41.26
+2021-11-27,Branch C,Home Appliances,9671.43,179.17
+2021-08-09,Branch A,Electronics,1076.2,126.56
+2021-09-23,Branch C,Clothing,4513.21,207.74
+2021-12-14,Branch C,Clothing,3515.18,31.79
+2021-02-23,Branch B,Home Appliances,9213.42,61.21
+2021-03-14,Branch B,Books,3496.36,396.45
+2021-09-24,Branch B,Books,4814.01,230.32
+2021-12-23,Branch B,Books,765.03,41.45
+2021-12-30,Branch A,Electronics,8506.88,331.03
+2021-12-13,Branch A,Clothing,5208.34,284.92
+2021-06-19,Branch C,Home Appliances,9588.78,131.29
+2021-07-27,Branch C,Clothing,1945.23,335.51
+2021-07-22,Branch A,Clothing,4550.79,226.19
+2021-01-03,Branch C,Clothing,2137.27,381.12
+2021-02-02,Branch C,Electronics,8015.07,277.71
+2021-07-07,Branch B,Clothing,4629.75,145.93
+2021-09-08,Branch C,Books,6010.01,313.43
+2021-10-28,Branch A,Books,3584.65,239.77
+2021-03-30,Branch C,Books,9194.96,303.28
+2021-12-11,Branch A,Books,1266.83,166.58
+2021-04-04,Branch B,Clothing,5157.17,220.75
+2021-03-12,Branch C,Home Appliances,4288.08,253.6
+2021-10-03,Branch C,Clothing,5593.63,255.03
+2021-03-13,Branch A,Books,8435.65,317.32
+2021-07-03,Branch A,Home Appliances,1451.69,411.3
+2021-10-15,Branch C,Home Appliances,4150.43,256.03
+2021-12-30,Branch B,Home Appliances,1755.81,291.39
+2021-04-23,Branch B,Electronics,2821.04,278.05
+2021-03-28,Branch B,Home Appliances,5542.29,74.34
+2021-02-28,Branch B,Books,5466.23,383.26
+2021-08-14,Branch C,Clothing,9898.78,69.16
+2021-12-01,Branch A,Books,8760.62,35.47
+2021-05-15,Branch B,Electronics,4446.79,497.1
+2021-05-02,Branch A,Books,8624.38,312.93
+2021-08-08,Branch A,Clothing,7870.01,410.49
+2021-01-31,Branch C,Books,5369.58,306.49
+2021-03-28,Branch B,Books,2964.4,148.32
+2021-09-21,Branch C,Electronics,1442.33,380.05
+2021-07-30,Branch A,Books,8683.77,80.91
+2021-03-09,Branch A,Clothing,7142.81,417.67
+2021-12-13,Branch B,Home Appliances,1507.5,323.55
+2021-11-18,Branch B,Home Appliances,4574.72,324.14
+2021-02-17,Branch B,Books,6977.57,441.11
+2021-08-21,Branch B,Books,5861.36,437.08
+2021-02-17,Branch C,Home Appliances,6384.92,354.7
+2021-02-02,Branch C,Home Appliances,2256.52,226.23
+2021-04-19,Branch B,Books,3296.36,156.12
+2021-10-08,Branch C,Clothing,5704.81,252.96
+2021-06-25,Branch C,Electronics,554.83,320.57
+2021-08-24,Branch A,Electronics,9301.39,95.83
+2021-08-22,Branch A,Home Appliances,2102.95,350.52
+2021-03-09,Branch C,Books,1673.88,467.71
+2021-05-21,Branch A,Books,2578.85,198.49
+2021-11-29,Branch A,Electronics,4023.78,166.64
+2021-12-25,Branch A,Home Appliances,6589.3,357.78
+2021-01-01,Branch A,Home Appliances,871.59,304.97
+2021-09-23,Branch C,Home Appliances,191.94,353.89
+2021-03-03,Branch B,Clothing,4829.23,129.89
+2021-02-15,Branch C,Electronics,1121.7,196.43
+2021-06-03,Branch A,Home Appliances,7757.26,381.52
+2021-03-10,Branch C,Clothing,777.27,290.38
+2021-11-09,Branch C,Clothing,4456.98,366.77
+2021-11-18,Branch C,Clothing,9206.95,315.72
+2021-08-15,Branch A,Electronics,8976.27,87.21
+2021-03-05,Branch C,Home Appliances,3580.2,226.11
+2021-03-13,Branch A,Books,6481.74,139.12
+2021-11-04,Branch C,Books,7811.8,351.43
+2021-12-04,Branch B,Clothing,5225.72,264.57
+2021-07-20,Branch B,Electronics,7859.64,401.01
+2021-05-03,Branch B,Home Appliances,1216.16,259.8
+2021-11-01,Branch A,Electronics,9870.14,468.28
+2021-03-09,Branch B,Home Appliances,3717.58,347.81
+2021-08-30,Branch A,Electronics,5914.9,26.62
+2021-04-21,Branch A,Electronics,9491.93,211.03
+2021-05-27,Branch C,Home Appliances,4293.39,213.09
+2021-11-24,Branch C,Clothing,2846.93,168.76
+2021-09-19,Branch A,Clothing,5410.26,207.55
+2021-11-21,Branch C,Electronics,3170.68,229.99
+2021-05-03,Branch A,Clothing,953.51,228.55
+2021-08-21,Branch C,Electronics,3161.97,376.01
+2021-03-31,Branch A,Electronics,7108.22,356.72
+2021-03-25,Branch B,Books,5277.75,395.83
+2021-05-13,Branch A,Books,1356.61,394.94
+2021-05-18,Branch C,Electronics,7737.16,34.09
+2021-08-08,Branch B,Electronics,2703.2,488.02
+2021-11-18,Branch A,Home Appliances,4606.46,192.86
+2021-09-13,Branch C,Clothing,3740.11,142.46
+2021-02-22,Branch C,Electronics,2361.2,264.24
+2021-01-23,Branch A,Clothing,555.22,194.71
+2021-03-18,Branch A,Electronics,5573.36,458.69
+2021-12-02,Branch B,Clothing,3285.84,219.8
+2021-06-13,Branch B,Electronics,5758.21,77.31
+2021-12-11,Branch A,Clothing,2309.53,267.57
+2021-01-24,Branch B,Electronics,8782.21,435.7
+2021-06-09,Branch B,Electronics,5575.6,23.83
+2021-04-13,Branch B,Books,7421.8,136.44
+2021-07-08,Branch C,Home Appliances,9978.09,392.43
+2021-10-07,Branch A,Clothing,163.14,216.82
+2021-04-30,Branch C,Books,6395.82,352.86
+2021-01-05,Branch B,Electronics,7613.4,200.61
+2021-06-07,Branch A,Clothing,5345.16,134.32
+2021-09-09,Branch A,Clothing,7145.36,64.65
+2021-04-29,Branch C,Home Appliances,7038.38,198.8
+2021-02-13,Branch C,Electronics,5103.73,325.86
+2021-07-21,Branch A,Electronics,4406.33,482.82
+2021-05-02,Branch B,Books,8524.05,464.5
+2021-07-21,Branch C,Books,3248.77,150.54
+2021-02-08,Branch A,Clothing,7821.38,300.66
+2021-03-21,Branch A,Clothing,4550.71,170.74
+2021-03-03,Branch C,Books,9649.88,119.67
+2021-06-07,Branch B,Books,8539.57,63.4
+2021-12-18,Branch B,Electronics,2228.71,431.16
+2021-03-17,Branch A,Clothing,9687.16,210.2
+2021-01-26,Branch C,Books,2675.65,495.52
+2021-01-16,Branch B,Home Appliances,5603.94,284.06
+2021-02-18,Branch B,Electronics,8058.58,87.1
+2021-01-07,Branch A,Clothing,1394.08,415.36
+2021-07-10,Branch C,Electronics,5865.01,144.23
+2021-02-08,Branch A,Electronics,2057.73,330.07
+2021-03-07,Branch A,Books,1313.02,472.29
+2021-01-26,Branch A,Home Appliances,8234.69,209.6
+2021-01-16,Branch B,Home Appliances,1810.79,123.06
+2021-04-06,Branch B,Books,4515.51,91.34
+2021-11-11,Branch C,Clothing,6508.06,259.47
+2021-10-09,Branch B,Electronics,968.44,203.85
+2021-08-03,Branch A,Clothing,6344.47,405.04
+2021-01-10,Branch B,Books,4848.88,395.09
+2021-06-26,Branch C,Books,3944.97,106.31
+2021-06-13,Branch C,Clothing,390.1,409.13
+2021-05-24,Branch A,Home Appliances,5341.38,388.08
+2021-04-30,Branch A,Electronics,2553.78,135.75
+2021-10-01,Branch C,Electronics,7664.09,474.95
+2021-10-22,Branch B,Books,9358.54,495.94
+2021-03-30,Branch A,Clothing,5965.94,406.98
+2021-12-24,Branch B,Electronics,7064.18,188.81
+2021-10-18,Branch C,Clothing,5674.78,110.35
+2021-09-10,Branch C,Books,1838.01,38.22
+2021-01-29,Branch A,Clothing,297.29,249.43
+2021-06-19,Branch C,Clothing,8083.81,183.56
+2021-04-01,Branch B,Electronics,316.94,301.57
+2021-03-14,Branch A,Books,9609.53,199.32
+2021-12-06,Branch B,Electronics,3431.95,174.85
+2021-03-22,Branch C,Home Appliances,7939.24,481.12
+2021-11-29,Branch B,Clothing,7101.11,289.75
+2021-11-11,Branch B,Clothing,6688.76,410.94
+2021-07-13,Branch B,Books,1360.75,369.84
+2021-12-26,Branch C,Home Appliances,8522.49,390.0
+2021-10-18,Branch A,Clothing,6063.65,462.1
+2021-11-10,Branch A,Electronics,9373.21,87.51
+2021-02-09,Branch A,Books,9825.56,100.59
+2021-02-15,Branch C,Books,4521.64,147.3
+2021-05-08,Branch C,Electronics,3569.76,397.77
+2021-01-01,Branch A,Home Appliances,4438.38,221.43
+2021-03-27,Branch B,Home Appliances,8829.53,188.59
+2021-07-12,Branch A,Home Appliances,7908.43,297.47
+2021-12-18,Branch A,Clothing,4567.75,403.61
+2021-01-18,Branch B,Electronics,3255.3,476.8
+2021-02-07,Branch B,Clothing,8890.52,97.23
+2021-02-08,Branch C,Electronics,3445.71,492.93
+2021-09-05,Branch C,Electronics,4370.1,333.74
+2021-11-07,Branch B,Clothing,630.2,178.93
+2021-04-08,Branch B,Books,6639.92,162.75
+2021-02-19,Branch A,Home Appliances,5760.52,423.13
+2021-03-20,Branch A,Books,137.77,62.06
+2021-12-05,Branch C,Home Appliances,2076.78,32.35
+2021-03-29,Branch C,Books,9772.87,247.31
+2021-03-01,Branch B,Home Appliances,4762.35,449.54
+2021-05-16,Branch A,Home Appliances,1930.32,445.04
+2021-07-09,Branch A,Home Appliances,541.71,231.08
+2021-05-15,Branch A,Books,5686.04,92.54
+2021-12-23,Branch C,Electronics,948.5,185.02
+2021-10-05,Branch B,Clothing,5580.66,423.58
+2021-09-25,Branch B,Home Appliances,5769.87,133.11
+2021-06-03,Branch A,Home Appliances,9037.49,362.87
+2021-09-15,Branch C,Clothing,1290.79,383.45
+2021-03-30,Branch A,Clothing,8103.76,80.57
+2021-08-05,Branch A,Home Appliances,2099.0,414.83
+2021-03-17,Branch C,Books,3265.52,369.01
+2021-02-04,Branch A,Home Appliances,5608.01,284.99
+2021-05-22,Branch C,Home Appliances,9179.9,25.93
+2021-12-25,Branch C,Home Appliances,1213.94,91.83
+2021-10-18,Branch C,Electronics,9256.79,290.09
+2021-02-21,Branch B,Books,8791.15,146.79
+2021-12-02,Branch B,Home Appliances,470.91,152.2
+2021-03-15,Branch C,Home Appliances,483.95,447.0
+2021-06-19,Branch C,Clothing,587.98,248.1
+2021-05-18,Branch B,Electronics,3444.87,400.95
+2021-06-09,Branch B,Home Appliances,8596.52,348.73
+2021-04-27,Branch A,Books,9744.77,232.69
+2021-06-14,Branch B,Home Appliances,6089.29,62.86
+2021-08-15,Branch A,Home Appliances,7435.35,384.56
+2021-07-11,Branch A,Clothing,749.61,360.59
+2021-07-26,Branch A,Electronics,1820.0,440.09
+2021-04-13,Branch A,Clothing,427.4,44.27
+2021-07-04,Branch C,Clothing,2812.38,415.28
+2021-09-16,Branch B,Electronics,6843.63,136.13
+2021-09-08,Branch C,Home Appliances,1858.08,437.83
+2021-10-28,Branch C,Books,3508.07,422.07
+2021-05-13,Branch C,Electronics,2922.19,205.55
+2021-03-25,Branch C,Clothing,8585.4,330.74
+2021-12-13,Branch A,Books,6550.71,266.37
+2021-12-16,Branch A,Home Appliances,9124.0,330.74
+2021-11-04,Branch A,Clothing,2598.67,406.44
+2021-06-06,Branch C,Books,4295.69,200.71
+2021-06-28,Branch B,Books,2260.27,165.03
+2021-09-24,Branch C,Home Appliances,5886.42,23.53
+2021-12-06,Branch B,Books,3054.91,71.89
+2021-02-02,Branch B,Books,6441.89,433.52
+2021-05-14,Branch C,Books,1964.76,268.3
+2021-05-04,Branch A,Home Appliances,6639.25,346.76
+2021-01-14,Branch C,Home Appliances,9974.94,144.52
+2021-08-03,Branch B,Home Appliances,7393.65,299.85
+2021-10-20,Branch A,Books,7292.84,126.73
+2021-10-01,Branch C,Home Appliances,9074.61,342.5
+2021-09-17,Branch B,Clothing,8422.32,440.72
+2021-04-03,Branch B,Electronics,4760.73,375.64
+2021-10-14,Branch A,Books,6578.9,126.68
+2021-04-25,Branch C,Books,4262.68,445.68
+2021-07-10,Branch B,Books,4691.23,76.54
+2021-01-28,Branch C,Electronics,4774.97,113.38
+2021-03-03,Branch C,Home Appliances,5345.4,218.29
+2021-03-19,Branch A,Clothing,3492.43,493.85
+2021-08-23,Branch A,Books,8637.7,106.57
+2021-02-11,Branch B,Books,6347.22,104.88
+2021-11-21,Branch A,Electronics,4575.33,120.5
+2021-03-28,Branch C,Clothing,4946.81,386.51
+2021-02-15,Branch A,Home Appliances,6371.53,213.63
+2021-09-02,Branch B,Electronics,473.48,115.72
+2021-07-11,Branch A,Books,7592.79,274.9
+2021-01-10,Branch C,Electronics,6304.2,139.44
+2021-12-22,Branch B,Books,1376.41,204.1
+2021-10-29,Branch B,Clothing,746.34,41.94
+2021-05-29,Branch B,Books,4393.29,349.65
+2021-03-10,Branch B,Home Appliances,3656.58,110.44
+2021-07-26,Branch A,Clothing,2320.78,492.74
+2021-04-19,Branch C,Electronics,5937.96,101.11
+2021-07-07,Branch C,Electronics,3814.41,327.35
+2021-10-01,Branch C,Electronics,5979.85,43.02
+2021-02-25,Branch C,Electronics,577.53,75.58
+2021-08-16,Branch B,Electronics,5518.1,247.71
+2021-03-20,Branch A,Electronics,3081.05,337.6
+2021-12-06,Branch C,Books,6265.7,356.35
+2021-08-03,Branch A,Electronics,2898.8,396.68
+2021-09-12,Branch A,Clothing,7801.79,419.12
+2021-04-14,Branch B,Home Appliances,3023.98,38.91
+2021-09-12,Branch A,Home Appliances,3372.98,21.31
+2021-12-10,Branch A,Electronics,8368.8,341.13
+2021-03-18,Branch A,Electronics,7263.28,68.62
+2021-05-12,Branch C,Clothing,4621.84,489.1
+2021-05-16,Branch B,Electronics,1088.11,103.86
+2021-01-21,Branch B,Books,8035.8,170.1
+2021-03-01,Branch A,Electronics,195.76,86.43
+2021-11-28,Branch A,Books,3639.52,230.1
+2021-11-15,Branch B,Electronics,3788.96,184.51
+2021-02-28,Branch B,Home Appliances,9626.87,150.48
+2021-07-17,Branch C,Home Appliances,8019.0,331.45
+2021-03-27,Branch A,Clothing,6992.08,48.15
+2021-03-23,Branch A,Home Appliances,9121.14,251.68
+2021-10-19,Branch C,Home Appliances,1894.48,202.28
+2021-07-03,Branch C,Electronics,8639.5,442.38
+2021-03-08,Branch B,Home Appliances,1218.08,217.42
+2021-01-24,Branch A,Books,6584.24,25.93
+2021-12-14,Branch C,Clothing,9781.17,341.53
+2021-06-23,Branch C,Electronics,4385.19,368.79
+2021-09-04,Branch B,Home Appliances,1571.68,416.69
+2021-11-10,Branch A,Electronics,6469.65,95.33
+2021-08-29,Branch B,Clothing,841.17,255.99
+2021-05-04,Branch B,Books,598.47,126.9
+2021-11-26,Branch B,Home Appliances,8189.32,57.84
+2021-08-16,Branch C,Home Appliances,971.4,259.26
+2021-06-11,Branch A,Home Appliances,7477.87,28.53
+2021-07-26,Branch B,Electronics,5615.6,20.08
+2021-02-16,Branch C,Books,8912.1,289.92
+2021-12-02,Branch C,Home Appliances,9508.52,194.4
+2021-01-28,Branch A,Home Appliances,3386.53,388.36
+2021-11-04,Branch B,Books,7187.54,74.73
+2021-12-04,Branch A,Electronics,3479.44,418.34
+2021-05-30,Branch C,Books,7050.75,41.97
+2021-03-26,Branch B,Clothing,8236.2,376.41
+2021-07-29,Branch A,Books,6147.43,110.02
+2021-07-21,Branch A,Home Appliances,8263.09,111.48
+2021-06-23,Branch A,Home Appliances,560.35,323.96
+2021-12-11,Branch C,Electronics,7744.24,236.24
+2021-12-04,Branch C,Clothing,9642.16,22.08
+2021-01-25,Branch C,Home Appliances,8404.28,251.81
+2021-09-18,Branch A,Clothing,7331.9,81.62
+2021-07-18,Branch C,Books,5090.69,204.64
+2021-11-08,Branch C,Clothing,2808.6,482.52
+2021-05-31,Branch B,Clothing,1467.98,309.21
+2021-09-20,Branch B,Books,7147.56,469.05
+2021-11-20,Branch A,Clothing,2176.16,362.9
+2021-12-18,Branch B,Clothing,9815.22,332.04
+2021-04-02,Branch C,Books,7132.49,385.17
+2021-10-15,Branch B,Home Appliances,6775.01,449.06
+2021-10-01,Branch B,Home Appliances,8102.22,270.91
+2021-01-13,Branch B,Clothing,625.34,47.17
+2021-05-17,Branch A,Books,6865.56,90.29
+2021-02-01,Branch C,Books,2119.61,279.76
+2021-07-03,Branch B,Electronics,6199.48,344.25
+2021-10-15,Branch A,Home Appliances,2452.2,396.47
+2021-12-23,Branch B,Electronics,9272.2,206.03
+2021-12-17,Branch B,Electronics,228.36,140.64
+2021-11-14,Branch B,Clothing,9123.72,358.22
+2021-11-28,Branch B,Clothing,7783.85,482.86
+2021-05-31,Branch B,Clothing,9836.19,55.75
+2021-03-30,Branch C,Electronics,3834.26,225.68
+2021-10-12,Branch B,Clothing,1693.2,426.09
+2021-01-03,Branch B,Home Appliances,7125.92,94.31
+2021-03-20,Branch B,Electronics,7759.24,320.18
+2021-12-05,Branch B,Home Appliances,7920.09,284.08
+2021-02-07,Branch C,Books,5301.41,479.35
+2021-09-24,Branch A,Clothing,4217.72,277.78
+2021-02-17,Branch B,Clothing,8845.63,338.4
+2021-06-19,Branch B,Books,2262.61,381.27
+2021-09-29,Branch B,Electronics,1235.75,186.08
+2021-05-04,Branch C,Clothing,9593.08,347.62
+2021-06-14,Branch B,Electronics,3920.17,279.31
+2021-05-25,Branch A,Books,5191.66,264.19
+2021-09-07,Branch A,Books,8992.99,112.41
+2021-09-21,Branch A,Electronics,1757.21,479.01
+2021-10-03,Branch C,Electronics,6306.64,121.18
+2021-11-19,Branch A,Home Appliances,8373.08,118.68
+2021-12-26,Branch C,Home Appliances,6500.96,471.08
+2021-12-18,Branch A,Electronics,4646.33,179.22
+2021-02-14,Branch A,Electronics,1862.12,140.92
+2021-02-06,Branch C,Clothing,9118.77,215.66
+2021-08-19,Branch C,Home Appliances,4386.95,28.11
+2021-12-11,Branch A,Electronics,6450.09,316.81
+2021-10-27,Branch A,Electronics,3641.23,261.36
+2021-05-29,Branch C,Books,6105.0,155.13
+2021-08-13,Branch B,Home Appliances,8239.01,34.79
+2021-03-22,Branch C,Clothing,1450.18,207.68
+2021-10-07,Branch B,Clothing,3050.76,445.75
+2021-11-28,Branch B,Electronics,5579.89,286.43
+2021-03-05,Branch A,Electronics,5769.91,209.16
+2021-10-08,Branch A,Books,2179.52,375.89
+2021-06-26,Branch A,Home Appliances,9065.72,428.7
+2021-03-14,Branch A,Clothing,2285.8,420.68
+2021-04-10,Branch A,Clothing,6742.68,292.3
+2021-01-28,Branch C,Home Appliances,6482.28,55.11
+2021-12-10,Branch A,Books,1072.2,368.28
+2021-09-07,Branch B,Books,1369.33,334.63
+2021-02-21,Branch B,Electronics,9011.17,172.54
+2021-08-19,Branch B,Books,6965.24,93.15
+2021-10-18,Branch B,Books,9590.72,100.95
+2021-06-10,Branch A,Clothing,7150.77,327.6
+2021-05-22,Branch B,Clothing,6827.84,179.15
+2021-09-03,Branch B,Home Appliances,3651.54,166.63
+2021-10-10,Branch A,Clothing,6490.96,59.35
+2021-05-24,Branch A,Clothing,2706.02,445.44
+2021-02-09,Branch C,Electronics,8931.84,427.8
+2021-11-20,Branch A,Home Appliances,7715.08,122.13
+2021-01-19,Branch C,Books,5480.35,499.39
+2021-08-30,Branch C,Clothing,3721.6,127.19
+2021-10-29,Branch C,Books,1425.42,260.54
+2021-02-16,Branch B,Books,5071.46,338.09
+2021-11-11,Branch C,Clothing,7596.34,87.38
+2021-03-23,Branch A,Clothing,7385.61,252.08
+2021-07-03,Branch A,Clothing,7638.58,131.24
+2021-05-16,Branch B,Clothing,523.8,119.25
+2021-07-04,Branch B,Home Appliances,9187.23,443.14
+2021-01-21,Branch C,Books,1121.93,484.85
+2021-11-21,Branch B,Books,5828.45,293.68
+2021-07-12,Branch C,Home Appliances,3716.44,333.6
+2021-02-09,Branch C,Books,3825.65,455.48
+2021-09-22,Branch B,Books,8190.64,185.62
+2021-09-04,Branch C,Electronics,5068.19,86.7
+2021-03-26,Branch A,Electronics,5193.96,154.79
+2021-03-18,Branch A,Clothing,3686.01,364.31
+2021-03-02,Branch C,Clothing,4204.68,178.51
+2021-02-28,Branch B,Home Appliances,4842.31,303.58
+2021-11-28,Branch B,Electronics,2512.34,81.38
+2021-10-31,Branch A,Clothing,6332.45,38.81
+2021-10-21,Branch A,Electronics,1746.78,462.77
+2021-09-22,Branch B,Electronics,8797.24,369.43
+2021-05-26,Branch A,Clothing,4547.11,496.53
+2021-09-04,Branch A,Clothing,8320.6,308.4
+2021-10-26,Branch A,Books,1760.44,349.08
+2021-08-21,Branch C,Electronics,2375.16,205.02
+2021-02-25,Branch A,Clothing,5274.84,456.48
+2021-12-17,Branch B,Clothing,6094.56,105.16
+2021-11-11,Branch C,Electronics,8789.75,275.09
+2021-03-02,Branch A,Home Appliances,6627.99,452.95
+2021-10-04,Branch A,Home Appliances,5268.24,197.78
+2021-01-23,Branch C,Home Appliances,2371.91,405.1
+2021-07-15,Branch B,Electronics,4312.35,142.17
+2021-04-30,Branch A,Books,6023.09,280.99
+2021-05-12,Branch A,Electronics,7120.57,398.92
+2021-10-23,Branch C,Electronics,5245.64,200.01
+2021-04-16,Branch C,Books,4147.57,71.16
+2021-08-07,Branch C,Books,2686.9,277.33
+2021-10-17,Branch B,Books,9918.81,210.78
+2021-04-15,Branch B,Home Appliances,1869.32,288.37
+2021-09-05,Branch B,Books,5818.75,391.61
+2021-07-23,Branch C,Clothing,8564.49,336.46
+2021-04-28,Branch B,Clothing,1092.76,264.0
+2021-06-23,Branch C,Electronics,1691.31,482.99
+2021-01-03,Branch A,Clothing,4769.52,308.12
+2021-02-15,Branch A,Books,2295.53,58.42
+2021-01-20,Branch C,Home Appliances,9313.78,212.31
+2021-12-02,Branch C,Books,7144.9,306.79
+2021-03-31,Branch C,Home Appliances,4445.82,116.82
+2021-12-03,Branch C,Books,2027.99,396.3
+2021-09-19,Branch C,Clothing,6190.38,343.53
+2021-07-04,Branch A,Electronics,9758.89,61.68
+2021-05-22,Branch B,Books,6729.65,214.62
+2021-04-13,Branch C,Electronics,7395.56,52.94
+2021-02-16,Branch C,Books,7288.77,288.37
+2021-10-26,Branch B,Books,9636.55,152.72
+2021-11-07,Branch A,Home Appliances,9304.17,295.96
+2021-05-14,Branch A,Home Appliances,5111.76,288.14
+2021-09-15,Branch B,Books,9475.45,405.41
+2021-05-12,Branch C,Books,6972.5,483.71
+2021-10-16,Branch B,Clothing,7598.99,481.39
+2021-08-23,Branch C,Home Appliances,8975.59,433.77
+2021-09-04,Branch A,Books,768.79,324.16
+2021-04-23,Branch C,Clothing,8021.6,217.96
+2021-06-30,Branch C,Electronics,7038.1,146.41
+2021-05-28,Branch A,Home Appliances,6769.61,414.12
+2021-02-08,Branch C,Clothing,4817.9,189.7
+2021-10-21,Branch B,Clothing,9476.47,347.89
+2021-04-08,Branch B,Clothing,2425.13,136.19
+2021-05-16,Branch A,Clothing,2107.39,139.85
+2021-11-13,Branch B,Clothing,7811.49,77.54
+2021-02-10,Branch C,Home Appliances,6176.89,386.84
+2021-10-05,Branch A,Home Appliances,3774.85,171.4
+2021-10-22,Branch B,Home Appliances,1910.43,386.85
+2021-09-19,Branch B,Home Appliances,2298.72,296.8
+2021-01-28,Branch C,Home Appliances,4835.37,279.57
+2021-09-15,Branch B,Home Appliances,8617.96,392.43
+2021-08-23,Branch A,Home Appliances,3224.95,24.04
+2021-12-12,Branch A,Home Appliances,5851.98,176.21
+2021-11-10,Branch B,Clothing,5530.78,133.83
+2021-08-30,Branch C,Books,3722.65,259.41
+2021-04-18,Branch B,Books,3714.27,212.28
+2021-08-19,Branch A,Clothing,9794.8,349.29
+2021-02-21,Branch C,Books,8060.47,286.56
+2021-07-15,Branch A,Clothing,8020.37,374.5
+2021-08-31,Branch A,Clothing,4273.05,84.55
+2021-11-19,Branch C,Books,7874.8,164.02
+2021-10-15,Branch C,Electronics,4044.18,351.46
+2021-01-31,Branch A,Books,4817.74,322.33
+2021-08-19,Branch C,Books,2671.71,192.95
+2021-10-13,Branch B,Books,296.37,78.19
+2021-12-14,Branch C,Clothing,5810.85,331.94
+2021-10-03,Branch A,Books,3615.58,343.13
+2021-09-07,Branch C,Home Appliances,8907.36,202.91
+2021-05-27,Branch B,Clothing,8695.75,327.48
+2021-06-22,Branch B,Home Appliances,8504.12,54.25
+2021-03-24,Branch B,Clothing,3203.47,333.45
+2021-12-30,Branch B,Home Appliances,2785.36,233.55
+2021-07-05,Branch C,Home Appliances,4198.49,108.27
+2021-01-12,Branch A,Clothing,6654.02,471.41
+2021-12-25,Branch C,Electronics,2184.66,210.58
+2021-02-18,Branch A,Home Appliances,5529.49,32.66
+2021-07-23,Branch C,Electronics,1128.89,316.69
+2021-02-13,Branch C,Home Appliances,3162.77,138.75
+2021-05-26,Branch B,Clothing,1399.64,422.49
+2021-01-15,Branch A,Books,8617.65,176.1
+2021-09-01,Branch B,Books,5530.6,84.86
+2021-12-24,Branch C,Clothing,5949.23,239.14
+2021-11-22,Branch C,Home Appliances,5282.25,326.97
+2021-06-08,Branch B,Home Appliances,5442.71,406.26
+2021-08-15,Branch B,Books,4180.82,94.74
+2021-01-06,Branch A,Clothing,3504.46,245.22
+2021-01-05,Branch C,Home Appliances,9474.88,248.99
+2021-01-05,Branch B,Books,6010.34,402.45
+2021-10-08,Branch B,Clothing,4176.19,289.07
+2021-07-22,Branch A,Clothing,7177.89,330.08
+2021-07-13,Branch A,Books,884.18,320.16
+2021-09-22,Branch C,Books,2918.3,376.6

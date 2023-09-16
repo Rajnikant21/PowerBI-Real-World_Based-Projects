@@ -1,0 +1,36 @@
+#customer_data_Project 5
+
+import pandas as pd
+import numpy as np
+from faker import Faker
+import random
+import csv
+import datetime
+
+fake = Faker()
+
+# Generate sample data for customer queries, transactions, and fraud incidents
+data = []
+for _ in range(1000):  # Generate 1000 rows of data for this example
+    query_date = fake.date_between(start_date='-1y', end_date='today')
+    transaction_date = query_date + datetime.timedelta(days=random.randint(1, 30))
+    fraud = random.choice([True, False, False, False])  # 75% of entries are not fraud
+    amount = round(random.uniform(10, 1000), 2)
+    
+    row = {
+        'Customer Name': fake.name(),
+        'Email': fake.email(),
+        'Phone Number': fake.phone_number(),
+        'Query': fake.sentence(),
+        'Query Date': query_date,
+        'Transaction Date': transaction_date,
+        'Transaction Amount': amount,
+        'Fraud Incident': fraud
+    }
+    data.append(row)
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Save the DataFrame as a CSV file
+df.to_csv('customer_data.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)

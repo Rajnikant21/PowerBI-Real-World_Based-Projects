@@ -1,0 +1,22 @@
+#financial_data_Project 7
+
+import pandas as pd
+import random
+import datetime
+
+# Generate sample data for 12 months
+months = [datetime.date(2023, i, 1) for i in range(1, 13)]
+revenue = [random.randint(50000, 80000) for _ in range(12)]
+expenses = [random.randint(30000, 60000) for _ in range(12)]
+profit = [revenue[i] - expenses[i] for i in range(12)]
+
+# Create a DataFrame
+df = pd.DataFrame({
+    'Month': months,
+    'Revenue': revenue,
+    'Expenses': expenses,
+    'Profit': profit
+})
+
+# Save data to a CSV file
+df.to_csv('financial_data.csv', index=False)

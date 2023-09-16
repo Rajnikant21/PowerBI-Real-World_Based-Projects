@@ -1,0 +1,34 @@
+#loan_data_Project 3
+
+import pandas as pd
+import random
+import numpy as np
+
+# Create a sample dataset of loans
+np.random.seed(0)
+data = {
+    'Loan_ID': [f'Loan_{i}' for i in range(1, 101)],
+    'Customer_ID': [f'Customer_{random.randint(1, 20)}' for _ in range(100)],
+    'Loan_Amount': [random.randint(5000, 50000) for _ in range(100)],
+    'Interest_Rate': [round(random.uniform(4, 10), 2) for _ in range(100)],
+    'Loan_Status': [random.choice(['Approved', 'Rejected']) for _ in range(100)]
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Save the data to a CSV file
+df.to_csv('loan_data.csv', index=False)
+
+
+
+#SQL_code - Assume you have a SQL database where you will store this loan data. You can create a table to import the data. Below is a simplified SQL statement to create a table for this purpose:
+
+
+CREATE TABLE LoanPortfolio (
+    Loan_ID VARCHAR(10),
+    Customer_ID VARCHAR(15),
+    Loan_Amount INT,
+    Interest_Rate DECIMAL(5, 2),
+    Loan_Status VARCHAR(10)
+);
