@@ -1,6 +1,6 @@
 **Financial Performance Dashboard for a Multi-Branch Retail Chain**
 
-![image].(Financial_Performance_Dashboard)for a_Multi-Branch_Retail_Chain.png)
+![image].(Financial_Performance_Dashboard_for_a_Multi-Branch_Retail_Chain.png)
 
 
 Case Study: Optimizing Financial Insights with Power BI
