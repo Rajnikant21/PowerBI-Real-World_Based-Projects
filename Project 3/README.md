@@ -2,6 +2,8 @@
 
 ![image](Financial_Performance_Dashboard_for_Loan_Portfolio.png)
 
+![image](Financial_Performance_Dashboard_for_Loan_Portfolio_1.png)
+
 #Case Study: Financial Performance Dashboard for Loan Portfolio
 
 **Background:**
